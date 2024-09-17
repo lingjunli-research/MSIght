@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/9c44a28d-2e48-4959-904f-ca571fc44af3">
+<img src="https://github.com/laurenfields/MSIght/blob/main/utils/MSIght_logo.png">
 </div>
 
 # MSIght
